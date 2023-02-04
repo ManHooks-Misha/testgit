@@ -1,6 +1,3 @@
 Just for pull test
-<<<<<<< HEAD
 Local Update
-=======
-Git Edit
->>>>>>> 8bdd318d2b7a82a26dd2995138a203ece27d7ede
+
